@@ -5,7 +5,6 @@ The project uses Python to process and clean a data set sourced from the Bureau 
 
 ## Skills Demonstrated
 - Data cleaning and preprocessing using Python (Pandas, NumPy)
-- Handling large datasets with 100K+ rows
-- Exploratory data analysis (EDA)
+- Handling large datasets
+- Exploratory data analysis
 - Jupyter Notebook documentation and workflow
-- Clear structuring of code and outputs for readability
